@@ -4,6 +4,9 @@
 /* Home */
 @import url(/assets/css/home/introducao.css);
 
+/* Bicicletas */
+@import url(/assets/css/bicicletas/bicicletas-lista.css);
+
 /* Utilidades */
 @import url(/assets/css/utilidades/tipografia.css);
 @import url(/assets/css/utilidades/cores.css);
