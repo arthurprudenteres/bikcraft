@@ -2,6 +2,11 @@
 @import url(/assets/css/global/header.css);
 @import url(/assets/css/global/footer.css);
 
+/* Utilidades */
+@import url(/assets/css/utilidades/tipografia.css);
+@import url(/assets/css/utilidades/cores.css);
+@import url(/assets/css/utilidades/componentes.css);
+
 /* Home */
 @import url(/assets/css/home/introducao.css);
 @import url(/assets/css/home/tecnologia.css);
@@ -10,11 +15,10 @@
 
 /* Bicicletas */
 @import url(/assets/css/bicicletas/bicicletas-lista.css);
+@import url(/assets/css/bicicletas/bicicletas.css);
 
 /* Seguros */
 @import url(/assets/css/seguros/seguros.css);
 
-/* Utilidades */
-@import url(/assets/css/utilidades/tipografia.css);
-@import url(/assets/css/utilidades/cores.css);
-@import url(/assets/css/utilidades/componentes.css);
+/* Termos */
+@import url(/assets/css/termos/termos.css);
